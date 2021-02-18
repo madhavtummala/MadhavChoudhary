@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhav Tummala</h1>
 <h3 align="center">A passionate Computer Science enthusiast from India. Graduated from IIT Bhubaneswar with a Bachelors degree.</h3>
 
-<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=madhavchoudhary" alt="madhavchoudhary" /> </p>
 
 - 🔭 I’m currently working as a full time analyst **at Goldman Sachs**
@@ -11,7 +9,7 @@
 
 - ❤️ I love **automating tasks, learning new languages and swimming**
 
-- 👨‍💻 All of my projects are available at [madhavchoudhary.github.io](madhavchoudhary.github.io)
+- 👨‍💻 All of my projects are available at [madhavtummala.github.io](madhavtummala.github.io)
 
 - 💬 Ask me about **Contiki, Bash, macOS, Python, C++**
 
