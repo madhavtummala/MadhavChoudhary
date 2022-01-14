@@ -9,7 +9,7 @@
 
 - ❤️ I love **automating tasks, learning new languages and swimming**
 
-- 👨‍💻 All of my projects are available at [madhavtummala.github.io](madhavtummala.github.io)
+- 👨‍💻 All of my projects are available at [madhavtummala.github.io](https://madhavtummala.github.io)
 
 - 💬 Ask me about **Contiki, Bash, macOS, Python, C++**
 
