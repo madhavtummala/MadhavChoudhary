@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=madhavchoudhary" alt="madhavchoudhary" /> </p>
 
-- 🔭 I’m currently working as a full time analyst **at Goldman Sachs**
+- 🔭 I’m currently a graduate student at **UT Austin**
 
-- 🌱 I’m currently learning **Angular, Java, Rust**
+- 🌱 I’m currently learning **Rust**
 
 - ❤️ I love **automating tasks, learning new languages and swimming**
 
